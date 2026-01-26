@@ -6,6 +6,10 @@ Journal: International Journal of Computer Assisted Radiology and Surgery
 
 [ :scroll: [`Paper`](https://arxiv.org/??)]
 
+<div align="center">
+  <img src="method_symfe.jpg">
+</div>
+
 # Code
 
 **lungclassify_train.py**<br/>
