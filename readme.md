@@ -8,11 +8,11 @@ Journal: International Journal of Computer Assisted Radiology and Surgery
 
 # Code
 
-lungclassify_train.py<br/>
+**lungclassify_train.py**<br/>
 Main processes of 3D volume load, model traininig, and evaluation.
 
-models.py<br/>
+**models.py**<br/>
 Contains model definitions.
 
-utils.py<br />
+**utils.py**<br />
 Contains sub functions used to run main processes.
