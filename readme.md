@@ -1,9 +1,10 @@
 
 # Left-Right Relationship-Aware 3D Volume Classification Method
 
-Title: Left-Right Relationship-Aware 3D Volume Classification Method  
-Authors: Masahiro Oda, Yuichiro Hayashi, Yoshito Otake, Masahiro Hashimoto, Toshiaki Akashi, Shigeki Aoki, Kensaku Mori  
+Authors: Masahiro Oda, Yuichiro Hayashi, Yoshito Otake, Masahiro Hashimoto, Toshiaki Akashi, Shigeki Aoki, Kensaku Mori<br/>
 Journal: International Journal of Computer Assisted Radiology and Surgery
+
+[ :scroll: [`Paper`](https://arxiv.org/??)]
 
 # Code
 
