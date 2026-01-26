@@ -8,4 +8,5 @@ Journal: International Journal of Computer Assisted Radiology and Surgery
 
 # Code
 
-Will come soon!
+lungclassify_train.py<br/>
+Main processes of 3D volume load, model traininig, and evaluation.
