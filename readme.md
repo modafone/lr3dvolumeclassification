@@ -4,7 +4,7 @@
 Authors: Masahiro Oda, Yuichiro Hayashi, Yoshito Otake, Masahiro Hashimoto, Toshiaki Akashi, Shigeki Aoki, Kensaku Mori<br/>
 Journal: International Journal of Computer Assisted Radiology and Surgery
 
-[ :scroll: [`Paper`](https://arxiv.org/??)]
+[ :scroll: [`Paper`](https://link.springer.com/article/10.1007/s11548-025-03567-y)]
 
 <div align="center">
   <img src="method_symfe.jpg">
